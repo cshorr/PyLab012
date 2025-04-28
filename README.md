@@ -1,3 +1,6 @@
+[//]: # ( [MermaidChart: 7b57a3ab-89bf-48b5-b797-a89e3f4a96b6]
+[//]: # ( [MermaidChart: 7b57a3ab-89bf-48b5-b797-a89e3f4a96b6]
+[//]: # ( [MermaidChart: 7b57a3ab-89bf-48b5-b797-a89e3f4a96b6]
 # Planets in Space
 
 ## Part 1 - English to Code
